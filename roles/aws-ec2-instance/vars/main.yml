@@ -1,0 +1,12 @@
+---
+
+type: t2.micro
+sg: sg-0e621f770992f8033
+keypair: iac-alura
+subnet: subnet-036f9401c0ac86bd6
+public_ip: true
+tag_name: server001
+tag_ambiente: production
+count: 1
+
+...
